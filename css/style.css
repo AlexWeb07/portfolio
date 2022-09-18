@@ -10,6 +10,16 @@ body
     height: 100%;
 
 }
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track
+{
+    background-color: #4270b5;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #aab6ca;
+}
 p
 {
     font-family: Arial, Helvetica, sans-serif;
