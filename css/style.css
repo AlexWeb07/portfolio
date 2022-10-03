@@ -247,9 +247,6 @@ h3
     .skill-row{
         width: 80%;
     }
-    .btn{
-        margin-bottom: 3.125rem;
-    }
 }
 @media screen and (max-width:320px)
 {
@@ -264,8 +261,5 @@ h3
     }
     .skill-row{
         width: 80%;
-    }
-    .btn{
-        margin-bottom: 3.125rem;
     }
 }
